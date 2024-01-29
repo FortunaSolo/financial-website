@@ -9,20 +9,20 @@ body {
     height: 50px;
 }
 header ul{
-    background-color: yellow;
     list-style: none;
     padding: 0;
     display: flex;
 }
 header li{
     padding: 1ch 2ch;
+    color: #F2F2F2;
 }
 header button{
     background-color: #D9AD2B;
     padding: 0.5ch 2ch;
 }
 header{
-    background-color: blue;
+   background-color: #131626;
     display: flex; 
     justify-content: space-around;
     align-items: center;
